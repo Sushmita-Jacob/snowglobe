@@ -19,7 +19,7 @@ h1 {
     text-align: center;
 }
 
-main {
+main, footer {
     max-width: 32rem;
     margin: 0 auto;
     padding: 0 1rem 4rem;
