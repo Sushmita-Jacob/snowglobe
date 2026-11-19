@@ -1,1 +1,3 @@
 # snowglobe
+
+This project is for Hack Club's Snowglobe program! I made it using HTML, CSS, and JS. I coded using GitHub Codespaces and then hosted it for free using GitHub Pages. My website has a button where if you press it, the snowglobe shakes and you get a kind message. I also added my own falling snowflake animation. I was inspired by the guide on the Snowglobe website, as well as my love for the winter/holiday season.
